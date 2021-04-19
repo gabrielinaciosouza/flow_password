@@ -1,0 +1,11 @@
+{
+  "name": "flow_password",
+  "version": "0.0.0",
+  "description": "App to manage passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "dev flow",
+  "license": "ISC"
+}
